@@ -17,6 +17,8 @@ Following image is the screenshot of election-audit results
 
 
 <img width="289" alt="results" src="https://user-images.githubusercontent.com/93842672/142780055-302e9c9d-45e4-4e32-bb24-45c61cf35fc3.PNG">
+
+
 How many votes were cast in this congressional election?
 - 369,711
 
@@ -29,12 +31,16 @@ Provide a breakdown of the number of votes and the percentage of total votes for
  
 Which county had the largest number of votes?
 -  Denver (306,005)
+
+
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 -  Charles Casper Stockham: 23.0% (85,213)
 
    Diana DeGette: 73.8% (272,892)
 
    Raymon Anthony Doane: 3.1% (11,606)    
+
+
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 -  Winner: Diana DeGette
  
